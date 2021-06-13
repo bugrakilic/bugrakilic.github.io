@@ -107,7 +107,7 @@ DISQUS_SITENAME = ""
 # Analytics
 GOOGLE_ANALYTICS = ""
 
-THEME = 'attila'
+THEME = 'C:/Users/bugraki/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/pelican/themes/attila'
 
 ### Theme specific settings
 
