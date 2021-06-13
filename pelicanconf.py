@@ -31,8 +31,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('Facebook', 'http://facebook.com/'),
-          ('Twitter', 'http://twitter.com/')
+SOCIAL = (('Facebook', 'http://facebook.com/bugra.kilic'),
+          ('Twitter', 'http://twitter.com/bugrkilic')
           )
 
 # Pagination
@@ -102,10 +102,10 @@ SITEMAP = {
 }
 
 # Comments
-DISQUS_SITENAME = "attilademo"
+DISQUS_SITENAME = ""
 
 # Analytics
-GOOGLE_ANALYTICS = "UA-3546274-12"
+GOOGLE_ANALYTICS = ""
 
 THEME = 'attila'
 
@@ -113,11 +113,11 @@ THEME = 'attila'
 
 # This is deprecated. Will be removed in future releases.
 # Work around will be use HOME_COVER and use cover in individual articles.
-# HEADER_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
+HEADER_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
 
 # This is deprecated. Will be removed in future releases.
 # Work around will be use HOME_COLOR and use color in individual articles.
-# HEADER_COLOR = 'black'
+HEADER_COLOR = 'black'
 
 # To set background image for the home page.
 HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
@@ -127,14 +127,14 @@ HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
 HEADER_COVERS_BY_TAG = {'cupcake': 'assets/images/rainbow_cupcake_cover.png', 'general':'https://casper.ghost.org/v1.0.0/images/writing.jpg'}
 
 AUTHORS_BIO = {
-  "zutrinken": {
-    "name": "Zutrinken",
+  "bugra": {
+    "name": "bugrakilic",
     "cover": "https://casper.ghost.org/v1.0.0/images/team.jpg",
     "image": "assets/images/avatar.png",
-    "website": "http://blog.arulraj.net",
+    "website": "https://bugrakilic.github.io",
     "linkedin": "unavailable",
-    "github": "arulrajnet",
-    "location": "Chennai",
+    "github": "bugrakilic",
+    "location": "Ankara, Turkey",
     "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
   }
 }
