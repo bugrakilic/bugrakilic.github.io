@@ -107,7 +107,7 @@ DISQUS_SITENAME = ""
 # Analytics
 GOOGLE_ANALYTICS = ""
 
-THEME = 'attila'
+THEME = 'C:/Users/bugraki/Documents/attila'
 
 ### Theme specific settings
 
