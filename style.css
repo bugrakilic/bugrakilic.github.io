@@ -1,7 +1,11 @@
+@font-face {
+    font-family: iSegoeUI;
+    src: url(resource/font/segoeui.ttf);
+}
 body {
     background-color: #141D26;
     color: ghostwhite;
-    font-family: 'Segoe UI';
+    font-family: iSegoeUI;
     text-align: center;
 }
 .pphoto {
