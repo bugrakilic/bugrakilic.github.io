@@ -1,11 +1,11 @@
-@font-face {
+/* @font-face {
     font-family: iSegoeUI;
     src: url(resource/font/segoeui.ttf);
-}
+} */
 body {
     background-color: #141D26;
     color: ghostwhite;
-    font-family: iSegoeUI;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI';
     text-align: center;
 }
 .pphoto {
