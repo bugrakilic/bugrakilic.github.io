@@ -1,0 +1,52 @@
+body {
+    background-color: #141D26;
+    color: ghostwhite;
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+.pphoto {
+    border-radius: 50%; 
+    width: 200px; 
+    height: 200px; 
+}
+/* .headr {
+    background-color: ghostwhite;
+    color: #1DA1F2;
+} */
+.mainheader {
+    background-color: ghostwhite;
+    color: #1DA1F2;
+}
+/** .subheader {
+} **/
+.footr {
+    font-size: small;
+}
+a:link {
+    color: ghostwhite;
+    background-color: transparent;
+}
+a:hover {
+    color: #1DA1F2;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+hr {
+    height: 1px;
+    width: 500px;
+    text-align: center;
+    background-color: ghostwhite;
+    border-width: 0;
+}
+/* .icons {
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: transparent;
+} */
