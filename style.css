@@ -3,7 +3,7 @@
     src: url(resource/font/segoeui.ttf);
 } */
 body {
-    background-color: #141D26;
+    background-color: #1e1e1e;
     color: ghostwhite;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI';
     text-align: center;
@@ -19,7 +19,7 @@ body {
 } */
 .mainheader {
     background-color: ghostwhite;
-    color: #1DA1F2;
+    color: #007acc;
 }
 /** .subheader {
 } **/
@@ -31,7 +31,7 @@ a:link {
     background-color: transparent;
 }
 a:hover {
-    color: #1DA1F2;
+    color: #007acc;
     background-color: transparent;
     text-decoration: underline;
 }
